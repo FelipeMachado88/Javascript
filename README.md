@@ -13,6 +13,6 @@ https://geradordesenhajs.netlify.app/
 
  
 <div align="center">
-<img src="https://user-images.githubusercontent.com/29787356/176184013-df599226-5d93-4bc2-83b0-ed39585f7a54.png" width="700px" />
+<img src="https://github.com/machadofelip3/geradorDeSenha/issues/2#issue-2057968117" width="700px" />
 </div>
 
